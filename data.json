@@ -1,0 +1,59 @@
+{
+  "jugadores": [
+    {
+      "usuario": "Billy",
+      "puntaje": 5,
+      "id": 1
+    },
+    {
+      "usuario": "saile",
+      "puntaje": 20,
+      "id": 5
+    },
+    {
+      "usuario": "abu",
+      "puntaje": 5,
+      "id": 6
+    },
+    {
+      "usuario": "abu",
+      "puntaje": 10,
+      "id": 7
+    },
+    {
+      "usuario": "abu",
+      "puntaje": 15,
+      "id": 8
+    },
+    {
+      "usuario": "abu",
+      "puntaje": 20,
+      "id": 9
+    },
+    {
+      "usuario": "billy",
+      "puntaje": 8,
+      "id": 10
+    },
+    {
+      "usuario": "billy",
+      "puntaje": 16,
+      "id": 11
+    },
+    {
+      "usuario": "billy",
+      "puntaje": 24,
+      "id": 12
+    },
+    {
+      "usuario": "Alura",
+      "puntaje": 2,
+      "id": 13
+    },
+    {
+      "usuario": "Alura",
+      "puntaje": 4,
+      "id": 14
+    }
+  ]
+}

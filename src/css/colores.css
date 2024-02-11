@@ -1,0 +1,15 @@
+.texto-rojo{
+    color: rgb(218, 18, 18);
+}
+.texto-verde{
+    color: rgb(21, 150, 21);
+}
+.borde-verde{
+    border-color: rgb(21, 150, 21);;
+}
+.borde-azul{
+    border-color: rgb(64, 64, 189);
+}
+.borde-rojo{
+    border-color: rgb(175, 37, 37);;
+}
